@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Script1","order":2,"path":"scripts/Script1/Script1.yy",},
+    {"name":"Extra","order":6,"path":"scripts/Extra/Extra.yy",},
+    {"name":"Sprite1","order":5,"path":"sprites/Sprite1/Sprite1.yy",},
+    {"name":"isla","order":3,"path":"objects/isla/isla.yy",},
+    {"name":"cuadro","order":4,"path":"objects/cuadro/cuadro.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+  ],
+}
